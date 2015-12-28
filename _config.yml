@@ -1,0 +1,28 @@
+name: gewuerze kaufen
+favicon: null
+layout_spectrum: 0.6749829251784831
+typography_spectrum: 0.8540782949421555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5168660897761583
+  lightness: 0.8384899890515953
+  saturation: 0.7936347036156803
+  rhythmicContrast: 0.14118703757412732
+purpose: []
